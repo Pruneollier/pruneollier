@@ -23,6 +23,7 @@ Here are some of the projects I've worked on:
 
 ### Object-Oriented Programming
 **- Map & Itinerary Generator (Java):** Design an application to generate maps and optimize itineraries using OOP principles.
+
 **- Interactive game development (Java):** Built a fully interactive game leveraging Java and OOP methodlogies.
 
 ## 🌟 Interests
