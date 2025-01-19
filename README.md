@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! 👋
+# Welcome to my GitHub profile! 👋
 Hi, I'm **Prune Ollier**, a passionate student in Communications Systems at EPFL with a strong foundation in programming and a growing interest in **Data Science** and **Data Analysis**.
 I enjoy tackling complex problems, building innovative solutions, and continuously learing new skills to expand my expertise.
 
@@ -19,7 +19,7 @@ Here are some of the projects I've worked on:
 **- Pattern recognition and Machine Learning (Python):** Developed machine learning models to recognize patterns in datasets effectively.
 
 ### Software development & Augmented Reality
-**- Eye-tracking & Augmented Reality (iOS development - Swift, Python):** Created an iOs application integrating eye-tracking AR technologies.
+**- [Eye-tracking & Augmented Reality](https://github.com/Pruneollier/Eye_Tracking_PDS)** (iOS development - Swift, Python): Created an iOs application integrating eye-tracking AR technologies.
 
 ### Object-Oriented Programming
 **- Map & Itinerary Generator (Java):** Design an application to generate maps and optimize itineraries using OOP principles.
