@@ -14,7 +14,7 @@ I'm currently learning **SQL** and exploring **Tableau** to enhance my skills in
 Here are some of the projects I've worked on:
 
 ### Data Science & Machine Learning
-**- Reliable text transmission over noisy channels (Python):** Implemented algorithms to ensure accurate data transmission despite noisy conditions.
+**- [Reliable text transmission over noisy channels](https://github.com/Pruneollier/noisy_channel_transmission)** (Python): Implemented algorithms to ensure accurate data transmission despite noisy conditions.
 
 **- Pattern recognition and Machine Learning (Python):** Developed machine learning models to recognize patterns in datasets effectively.
 
