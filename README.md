@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
 ### Object-Oriented Programming
 **- [Map & Itinerary Generator](https://github.com/Pruneollier/JaVelo)** (Java): Design an application to generate maps and optimize itineraries using OOP principles.
 
-**- Interactive game development (Java):** Built a fully interactive game leveraging Java and OOP methodlogies.
+**- [Interactive game development](https://github.com/Pruneollier/ICWars)** (Java): Built an interactive game leveraging Java and OOP methodlogies.
 
 ## 🌟 Interests
 I am particularly drawn to **Data Science**, **Data Analysis**, and projects that involve solving real-world challenges with data-driven approaches. My goal is to use my technical expertise to contribute to impactful projects and gain deeper insights into the potential of data. 
