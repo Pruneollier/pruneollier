@@ -14,17 +14,17 @@ I'm currently learning **SQL** and exploring **Tableau** to enhance my skills in
 Here are some of the projects I've worked on:
 
 ### Data Science & Machine Learning
-**- [Reliable text transmission over noisy channels](https://github.com/Pruneollier/noisy_channel_transmission)** (Python): Implemented algorithms to ensure accurate data transmission despite noisy conditions.
+**- [Reliable text transmission over noisy channels](https://github.com/Pruneollier/noisy_channel_transmission) (Python):** Implemented algorithms to ensure accurate data transmission despite noisy conditions.
 
-**- Pattern recognition and Machine Learning (Python):** Developed machine learning models to recognize patterns in datasets effectively.
+**- [Pattern recognition and Machine Learning](https://github.com/Pruneollier/ML_project) (Python):** Developed machine learning models to recognize patterns in datasets effectively.
 
 ### Software development & Augmented Reality
-**- [Eye-tracking & Augmented Reality](https://github.com/Pruneollier/Eye_Tracking_PDS)** (iOS development - Swift, Python): Created an iOs application integrating eye-tracking AR technologies.
+**- [Eye-tracking & Augmented Reality](https://github.com/Pruneollier/Eye_Tracking_PDS) (iOS development - Swift, Python):** Created an iOs application integrating eye-tracking AR technologies.
 
 ### Object-Oriented Programming
-**- [Map & Itinerary Generator](https://github.com/Pruneollier/JaVelo)** (Java): Design an application to generate maps and optimize itineraries using OOP principles.
+**- [Map & Itinerary Generator](https://github.com/Pruneollier/JaVelo) (Java):** Design an application to generate maps and optimize itineraries using OOP principles.
 
-**- [Interactive game development](https://github.com/Pruneollier/ICWars)** (Java): Built an interactive game leveraging Java and OOP methodlogies.
+**- [Interactive game development](https://github.com/Pruneollier/ICWars) (Java):** Built an interactive game leveraging Java and OOP methodlogies.
 
 ## 🌟 Interests
 I am particularly drawn to **Data Science**, **Data Analysis**, and projects that involve solving real-world challenges with data-driven approaches. My goal is to use my technical expertise to contribute to impactful projects and gain deeper insights into the potential of data. 
