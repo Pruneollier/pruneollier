@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 **- [Eye-tracking & Augmented Reality](https://github.com/Pruneollier/Eye_Tracking_PDS)** (iOS development - Swift, Python): Created an iOs application integrating eye-tracking AR technologies.
 
 ### Object-Oriented Programming
-**- Map & Itinerary Generator (Java):** Design an application to generate maps and optimize itineraries using OOP principles.
+**- [Map & Itinerary Generator](https://github.com/Pruneollier/JaVelo)** (Java): Design an application to generate maps and optimize itineraries using OOP principles.
 
 **- Interactive game development (Java):** Built a fully interactive game leveraging Java and OOP methodlogies.
 
