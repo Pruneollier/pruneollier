@@ -4,6 +4,7 @@ I enjoy tackling complex problems, building innovative solutions, and continuous
 
 ## 🛠️ Technical Skills
 **Programming languages :** Pyhton, Java, C, Scala, Swift, currently learning SQL
+![Python](https://img.shields.io/badge/Python-3.9-blue)
 
 **Software Tools :** GitHub, VSCode, Xcode, Logisim, Quartus
 
